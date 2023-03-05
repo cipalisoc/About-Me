@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris Palisoc
 - 👀 I’m interested in data science, 4-wheeling, gaming, and craft cocktails
-- 🌱 I’m currently learning data science vai Coding Dojo
+- 🌱 I’m currently learning data science via Coding Dojo
 - 📫 How to reach me: cipalisoc@gmail.com
 
 <!---
